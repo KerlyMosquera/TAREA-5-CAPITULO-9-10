@@ -1,4 +1,4 @@
-# TAREA-5-CAPITULO-9-10
+# TAREA-5-CAPITULO-9-10  
 ## 1. OBJETIVOS
 - Aplicar el teorema de superposición para determinar la corriente o el voltaje en cualquier resistencia en una red dada.
 -  Establecer el teorema de thévenin y determinar el circuito equivalente de thévenin en cualquier red resistiva.
@@ -7,6 +7,14 @@
 -  Aplicar el teorema de Millman para determinar la corriente o el voltaje en cualquier resistor suministrado por cualquier número de fuentes en paralelo.
 -  Establecer el teorema de reciprocidad y demostrar que se aplica a un circuito de una sola fuente.
 -  Establecer el teorema de sustitución y aplicarlo para la simplificación de la operación de un circuito dado.
+-  Describir la construcción básica de los capacitores
+-  Explicar cómo los capacitores almacenan energía.
+-  Definir capacitancia.
+-  Describir qué factores afectan la capacitancia y en qué forma..
+-  Describir el campo eléctrico de un capacitor.
+-  Calcular el voltaje de ruptura de varios materiales
+-  Calcular la capacitancia de combinación de capacitores en serie y en paralelo.
+-  Describir las fallas en capacitores y la solución de problemas básicos de los capacitores.
 ## 2. MARCO TEÓRICO (RESUMEN)
 ##  2.1  TEOREMAS DE REDES
 ### 2.1.1  TEOREMA DE SUPERPOSICIÓN 
