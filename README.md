@@ -58,6 +58,17 @@
 ### 3.2.9 ENERGÍA ALMACENADA POR UN CAPACITOR 
 ### 3.2.10 FALLAS EN EL CAPACITOR Y SOLUCIÓN DE PROBLEMAS 
 ## 4. CONCLUSIONES
+- El teorema de Norton permite reducir cualquier circuito resistivo lineal de dos terminales a una forma
+equivalente compuesta por una fuente de corriente equivalente en paralelo con una resistencia
+equivalente.
+- El término equivalencia, tal como se utiliza en los teoremas de Thevenin y de Norton, significa que al
+conectar una resistencia de carga dada al circuito equivalente, la resistencia tendrá el mismo voltaje y la
+misma corriente a través de ella como cuando estaba conectada al circuito original.
+- El teorema de Thevenin permite reducir cualquier circuito resistivo lineal de dos terminales a una forma
+equivalente compuesta por una fuente de voltaje equivalente en serie con una resistencia equivalente.
+- El teorema de superposición es útil para circuitos de fuentes múltiples.
+- Se transfiere potencia máxima a una carga desde una fuente cuando la resistencia de la carga es igual a
+la resistencia interna de la fuente.
 ## 5. VIDEO
 ## 6. BIBLIOGRAFÍA
 -  Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
