@@ -70,8 +70,24 @@
 ### 3.2.6 TIPOS DE CAPACITORES 
 ### 3.2.7 CAPACITORES EN PARALELO Y EN SERIE 
 ### 3.2.8 CORRIENTE Y VOLTAJE EN EL CAPACITOR 
+
+
+
 ### 3.2.9 ENERGÍA ALMACENADA POR UN CAPACITOR 
+
+47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes
+tiempos: t  0, 1, 4, 5, 7 y 9 ms.
+
+![image](https://user-images.githubusercontent.com/84431598/126058142-cdeacc95-0e9c-431f-9b1d-40a4114d377a.png)
+
 ### 3.2.10 FALLAS EN EL CAPACITOR Y SOLUCIÓN DE PROBLEMAS 
+
+49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
+
+![image](https://user-images.githubusercontent.com/84431598/126058058-d4a71004-a3d1-42ee-bc96-cccfcd3517a0.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126058113-a4c2cb02-4140-437a-809d-a9bf486c7498.png)
+
 ## 4. CONCLUSIONES
 - El teorema de Norton permite reducir cualquier circuito resistivo lineal de dos terminales a una forma
 equivalente compuesta por una fuente de corriente equivalente en paralelo con una resistencia
