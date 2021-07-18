@@ -87,6 +87,26 @@ cuando RL _ 50 k_.
 ### 3.2.5 EFECTOS NO IDEALES 
 ### 3.2.6 TIPOS DE CAPACITORES 
 ### 3.2.7 CAPACITORES EN PARALELO Y EN SERIE 
+
+35. Considere capacitores de 1, 1.5 y 10 uF. Si CT =10-6 u F, ¿cómo están conectados
+los capacitores?
+
+37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se
+aplican 100 V en las terminales a-b.
+
+![image](https://user-images.githubusercontent.com/84431598/126085469-746d696c-8866-4d1d-8413-0b67492b94dd.png)
+
+
+39. Repita el problema 38 para el circuito de la figura 10-39.
+
+![image](https://user-images.githubusercontent.com/84431598/126085423-0aecd05d-ef79-4a09-a765-144ac043e66a.png)
+
+
+41. Para la figura 10-41, determine Cx.
+
+![image](https://user-images.githubusercontent.com/84431598/126085393-764563d8-469d-46cc-8c26-e4740fb6aa47.png)
+
+
 ### 3.2.8 CORRIENTE Y VOLTAJE EN EL CAPACITOR 
 
 43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente
