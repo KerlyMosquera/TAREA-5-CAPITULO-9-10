@@ -71,7 +71,13 @@
 ### 3.2.7 CAPACITORES EN PARALELO Y EN SERIE 
 ### 3.2.8 CORRIENTE Y VOLTAJE EN EL CAPACITOR 
 
+43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente
+iC a escala con valores numéricos
 
+![image](https://user-images.githubusercontent.com/84431598/126058195-8f60f13e-3b28-4437-9c53-f7d3dfb50565.png)
+
+45. Si el voltaje en un capacitor de 4.7 uF es V_c=100e^(-0.05t) V V, ¿ qué valor tiene
+iC?
 
 ### 3.2.9 ENERGÍA ALMACENADA POR UN CAPACITOR 
 
