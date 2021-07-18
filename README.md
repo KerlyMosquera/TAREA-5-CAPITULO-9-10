@@ -56,6 +56,24 @@
 ### 3.1.1 TEOREMA DE SUPERPOSICIÓN 
 ### 3.1.2 TEOREMA DE THÉVENIN 
 ### 3.1.3 TEOREMA DE NORTON
+
+25. Encuentre el circuito equivalente de Norton externo a RL en el circuito de la
+figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
+
+![image](https://user-images.githubusercontent.com/84431598/126058287-ba72e194-b3a6-4319-a385-e51a36ecaa5d.png)
+
+27. Repita el problema 25 para el circuito de la figura 9-83.
+
+![image](https://user-images.githubusercontent.com/84431598/126058294-1d9b0a53-97ed-4d12-9dde-f628f04becb8.png)
+
+29. Vea el circuito de la figura 9-85:
+a. Encuentre el circuito equivalente de Norton externo a RL.
+b. Use el circuito equivalente para determinar IL cuando RL_ 20 k_ y
+cuando RL _ 50 k_.
+
+![image](https://user-images.githubusercontent.com/84431598/126058302-78370e55-01a2-40b7-9053-1fa45d19d1bd.png)
+
+
 ### 3.1.4 TEOREMA DE TRANSFERENCIA DE MÁXIMA POTENCIA
 ### 3.1.5 TEOREMA DE SUSTITUCIÓN 
 ### 3.1.6 TEOREMA DE MILLMAN 
