@@ -97,6 +97,18 @@ iC a escala con valores numéricos
 45. Si el voltaje en un capacitor de 4.7 uF es V_c=100e^(-0.05t) V V, ¿ qué valor tiene
 iC?
 
+Utilizando la fórmula:
+
+![image](https://user-images.githubusercontent.com/84431598/126085196-105cc647-35b2-42c3-9e6d-33795a477716.png)
+
+Derivada de:
+
+![image](https://user-images.githubusercontent.com/84431598/126085216-45b97f7f-859d-4cd1-b8a3-686dbd65846d.png)
+
+Reemplazando en la ecuación:
+
+![image](https://user-images.githubusercontent.com/84431598/126085233-8a1fceaa-776d-4ee8-b549-5d8ffd9fb6f4.png)
+
 ### 3.2.9 ENERGÍA ALMACENADA POR UN CAPACITOR 
 
 47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes
