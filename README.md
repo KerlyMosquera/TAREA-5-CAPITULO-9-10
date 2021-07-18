@@ -104,6 +104,13 @@ tiempos: t  0, 1, 4, 5, 7 y 9 ms.
 
 ![image](https://user-images.githubusercontent.com/84431598/126058142-cdeacc95-0e9c-431f-9b1d-40a4114d377a.png)
 
+Utilizando la fórmula:
+
+![image](https://user-images.githubusercontent.com/84431598/126084714-4dc96fbb-be43-4c36-9b81-440f5c9703f2.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126084748-65062946-d74a-4207-82d0-3c55c55ac6e2.png)
+
+
 ### 3.2.10 FALLAS EN EL CAPACITOR Y SOLUCIÓN DE PROBLEMAS 
 
 49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
