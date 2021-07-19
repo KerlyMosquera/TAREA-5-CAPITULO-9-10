@@ -100,7 +100,7 @@ c)
 
 ![image](https://user-images.githubusercontent.com/84431598/126086751-235a2a4e-19c6-453d-a808-5c1f7143f125.png)
 
-![image](https://user-images.githubusercontent.com/84431598/126086775-c4bd777e-b4b9-4f64-8e6a-8aaffb5ea884.png)
+![image](https://user-images.githubusercontent.com/84431598/126086849-c24330cd-f323-4d3c-ba2e-862671d105d8.png)
 
 d)
 
