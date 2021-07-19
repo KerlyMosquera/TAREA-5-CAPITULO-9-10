@@ -91,6 +91,8 @@ cuando RL _ 50 k_.
 35. Considere capacitores de 1, 1.5 y 10 uF. Si CT =10-6 u F, ¿cómo están conectados
 los capacitores?
 
+El capacitor de 10 uF están en paralelo con la combinación en serie de los capacitores de 1 uF y 1.5 uF.
+
 37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se
 aplican 100 V en las terminales a-b.
 
