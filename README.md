@@ -96,6 +96,14 @@ aplican 100 V en las terminales a-b.
 
 ![image](https://user-images.githubusercontent.com/84431598/126085469-746d696c-8866-4d1d-8413-0b67492b94dd.png)
 
+c)
+
+![image](https://user-images.githubusercontent.com/84431598/126086751-235a2a4e-19c6-453d-a808-5c1f7143f125.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126086775-c4bd777e-b4b9-4f64-8e6a-8aaffb5ea884.png)
+
+d)
+
 
 39. Repita el problema 38 para el circuito de la figura 10-39.
 
