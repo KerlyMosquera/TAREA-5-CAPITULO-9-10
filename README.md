@@ -101,6 +101,19 @@ aplican 100 V en las terminales a-b.
 
 ![image](https://user-images.githubusercontent.com/84431598/126085423-0aecd05d-ef79-4a09-a765-144ac043e66a.png)
 
+![image](https://user-images.githubusercontent.com/84431598/126086255-23678e95-4ac8-445b-a0f1-704cad99e1f7.png)
+
+Como los capacitores están en serie:
+
+![image](https://user-images.githubusercontent.com/84431598/126086272-a5691fc0-6fbd-4ca6-989d-941b42778663.png)
+
+Calculamos la carga total almacenada:
+
+![image](https://user-images.githubusercontent.com/84431598/126086299-d3180115-f97e-4a4c-85f4-1a8b96c7fe1f.png)
+
+Determinamos el voltaje en cada capacitor:
+
+![image](https://user-images.githubusercontent.com/84431598/126086349-7b7f29b0-839b-414a-b8bf-b27800c8d5ff.png)
 
 41. Para la figura 10-41, determine Cx.
 
