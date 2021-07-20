@@ -18,8 +18,17 @@
 ## 2. MARCO TEÓRICO (RESUMEN)
 ##  2.1  TEOREMAS DE REDES
 ### 2.1.1  TEOREMA DE SUPERPOSICIÓN 
+
+![Teorema de superposición](https://user-images.githubusercontent.com/84425276/126254040-bf458afa-ddcc-4a28-98ef-977d621c944f.png)
+
 ### 2.1.2 TEOREMA DE THÉVENIN 
+
+![Teorema de Thévenin](https://user-images.githubusercontent.com/84425276/126254059-9b1cdacc-4041-45d3-be4b-64a9e7409e64.png)
+
 ### 2.1.3 TEOREMA DE NORTON
+
+![Teorema de Norton](https://user-images.githubusercontent.com/84425276/126254087-1530d2c3-d17c-4aa2-9e5c-a0de95f41cb2.png)
+
 ### 2.1.4 TEOREMA DE TRANSFERENCIA DE MÁXIMA POTENCIA
 
 ![image](https://user-images.githubusercontent.com/84431598/126057886-6ea6e8fe-4867-48b9-9bf0-cd0720ab4ad1.png)
@@ -40,8 +49,17 @@
 ###  2.2.3 CAMPOS ELÉCTRICOS 
 ###  2.2.4 DIELÉCTRICOS
 ### 2.2.5 EFECTOS NO IDEALES 
+
+![Efectos no ideales](https://user-images.githubusercontent.com/84425276/126254167-7912be98-3b71-4662-b693-c3bb358afa27.png)
+
 ###  2.2.6 TIPOS DE CAPACITORES 
+
+![Tipos de capacitores](https://user-images.githubusercontent.com/84425276/126254129-7faef224-922d-4175-9456-1c9f4fe9db80.png)
+
 ### 2.2.7 CAPACITORES EN PARALELO Y EN SERIE 
+
+![Capacitores en paralelo y en serie](https://user-images.githubusercontent.com/84425276/126254149-db372e10-7f43-4922-ba6f-20b806a6d362.png)
+
 ### 2.2.8 CORRIENTE Y VOLTAJE EN EL CAPACITOR 
 ### 2.2.9 ENERGÍA ALMACENADA POR UN CAPACITOR 
 
