@@ -72,7 +72,94 @@
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS
 ## 3.1 TEOREMAS DE REDES
 ### 3.1.1 TEOREMA DE SUPERPOSICIÓN 
+
+1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
+
+![image](https://user-images.githubusercontent.com/84425276/126570006-64cbd457-0eff-4c7d-985e-36889e002f1c.png)
+
+![image](https://user-images.githubusercontent.com/84425276/126570143-4d7cca5c-ae97-4e89-8301-a03f967eb78e.png)
+
+3. Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
+
+![image](https://user-images.githubusercontent.com/84425276/126570179-5ab6a4a4-8e12-4ced-82c3-898623b511ff.png)
+
+Circuito A:
+
+![image](https://user-images.githubusercontent.com/84425276/126570282-0a9c2549-26e0-4f1f-a45d-e0aadeb73d35.png)
+
+Circuito B:
+
+![image](https://user-images.githubusercontent.com/84425276/126570300-5fa48b91-b63b-4891-85c1-a6c9f0e4e215.png)
+
+Aplicando principio de superposición:
+
+![image](https://user-images.githubusercontent.com/84425276/126570341-edf1fa7b-273b-43f1-b615-c2ed52a1fc23.png)
+
+5. En el circuito de la figura 9-79, .cual debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL = 5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
+
+![image](https://user-images.githubusercontent.com/84425276/126570364-aa7ee291-c938-4b65-8bf4-9820df2903fa.png)
+
+Circuito A:
+
+![image](https://user-images.githubusercontent.com/84425276/126570433-5307bc86-06d6-4efc-a0f7-f1b8ab81a009.png)
+
+Circuito B:
+
+![image](https://user-images.githubusercontent.com/84425276/126570467-8797b97e-932f-445a-9bae-e6fe82109054.png)
+
 ### 3.1.2 TEOREMA DE THÉVENIN 
+
+7. Encuentre el equivalente de Thevenin externo a RL en el circuito de la figura
+9-81. Use el circuito equivalente para encontrar Vab.
+
+![image](https://user-images.githubusercontent.com/84425276/126570496-4888a2b8-0d8b-44e4-85c2-9029af064ccd.png)
+
+![image](https://user-images.githubusercontent.com/84425276/126570513-4f84ce3b-c67f-427b-90e0-223aa1efed2f.png)
+
+9. Repita el problema 7 para el circuito de la figura 9-83.
+
+![image](https://user-images.githubusercontent.com/84425276/126570528-b296402e-f22b-4e3f-af64-958e074cf41c.png)
+
+![image](https://user-images.githubusercontent.com/84425276/126570545-4ed142b4-0025-41da-8e6d-badf0a0e526a.png)
+
+11. Vea el circuito de la figura 9-85:
+a Encuentre el circuito equivalente de Thevenin externo a RL.
+b. Use el circuito equivalente para determinar Vab cuando RL = 20 Ω y cuando RL = 50 Ω.
+
+![image](https://user-images.githubusercontent.com/84425276/126570558-61ccc7fe-fbc8-435a-921c-7e6b5279b0da.png)
+
+![image](https://user-images.githubusercontent.com/84425276/126570586-b8d2d9a1-e60c-42fd-8835-fb91e7942780.png)
+
+13. Vea el circuito de la figura 9-87:
+a. Encuentre el circuito equivalente de Thevenin externo a las terminales indicadas.
+b. Use el circuito equivalente de Thevenin para determinar la corriente a través de las ramas indicadas.
+
+![image](https://user-images.githubusercontent.com/84425276/126570615-41737cab-cd82-4d63-9254-91b982f49ce4.png)
+
+![image](https://user-images.githubusercontent.com/84425276/126570632-f6964fa9-54d9-4d0a-9f3a-eb905306fb87.png)
+
+15. Vea el circuito de la figura 9-89:
+a. Encuentre el circuito equivalente de Thevenin externo a las terminales que se indican.
+b. Use el circuito equivalente de Thevenin para determinar la corriente a través de las ramas que se indican.
+
+![image](https://user-images.githubusercontent.com/84425276/126570650-aff9ba81-0144-40fb-b00c-ccff31fff895.png)
+
+![image](https://user-images.githubusercontent.com/84425276/126570659-2342bfcc-51af-4d09-97c5-56426dbd5141.png)
+
+17. Vea el circuito de la figura 9-91:
+a. Encuentre el circuito equivalente de Thevenin externo a RL.
+b. Use el circuito equivalente de Thevenin para encontrar la corriente I cuando RL = 0, 10 kΩ y 50 kΩ.
+
+![image](https://user-images.githubusercontent.com/84425276/126570681-61b008ba-e226-4d2c-a76d-de8965215f40.png)
+
+![image](https://user-images.githubusercontent.com/84425276/126570693-3b90b234-602a-4c8d-9bbb-eb44819cc21a.png)
+
+19. Repita el problema 17 para el circuito de la figura 9-93.
+
+![image](https://user-images.githubusercontent.com/84425276/126570717-290cc1e5-177e-497c-b7c4-7883349dd84e.png)
+
+![image](https://user-images.githubusercontent.com/84425276/126570791-3f676dcf-c64b-4886-bbcc-76e152301c4a.png)
+
 ### 3.1.3 TEOREMA DE NORTON
 
 25. Encuentre el circuito equivalente de Norton externo a RL en el circuito de la
@@ -93,87 +180,13 @@ cuando RL _ 50 k_.
 
 
 ### 3.1.4 TEOREMA DE TRANSFERENCIA DE MÁXIMA POTENCIA
-
-39. a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL=RTh.
-b. Calcule la máxima potencia disipada por RL.
-
-![image](https://user-images.githubusercontent.com/84458025/126559776-49d87ded-9798-4b3e-b692-c34762fa55f3.png)
-
-41. a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 komhs reciba la máxima potencia.
-b. Calcule la máxima potencia suministrada por RL.
-
-![image](https://user-images.githubusercontent.com/84458025/126559970-d0062f82-4ff8-4f6b-90d7-e0119729232a.png)
-
-
 ### 3.1.5 TEOREMA DE SUSTITUCIÓN 
-
-43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 omhs, determine la magnitud y polaridad
-de la fuente de voltaje resultante.
-
-![image](https://user-images.githubusercontent.com/84458025/126560275-0d333895-3749-49eb-a9d1-74c2cfbc1694.png)
-
 ### 3.1.6 TEOREMA DE MILLMAN 
-
-45. Use el Teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
-
-![image](https://user-images.githubusercontent.com/84458025/126560390-23cac05d-df1b-4323-9a68-ba3aa21f6ebb.png)
-
-![image](https://user-images.githubusercontent.com/84458025/126563139-433856f8-5a3c-4011-9d28-87fc4a13e70b.png)
-
-47. Repita el problema 45 para el circuito de la figura 9-105.
-
-![image](https://user-images.githubusercontent.com/84458025/126563390-b74c9c3b-73ff-4ec4-9664-c446681f3025.png)
-
-![image](https://user-images.githubusercontent.com/84458025/126564293-3bb247de-56e8-41cd-ae85-52c626cbc450.png)
-
 ### 3.1.7 TEOREMA DE RECIPROCIDAD 
-
-49. a. Determine la corriente I en el circuito de la figura 9-107.
-b. Demuestre que la reciprocidad se aplica en el circuito dado.
-
-![image](https://user-images.githubusercontent.com/84458025/126564396-e2c6eb94-b93a-40e5-b9e0-b6f1cd96dad6.png)
-
-51. a. Determine el voltaje V en el circuito de la figura 9-109.
-b. Demuestre que la reciprocidad se aplica en el circuito dado.
-
-![image](https://user-images.githubusercontent.com/84458025/126564646-6540ee6f-0172-402f-8981-71f7f3e9b322.png)
-
 ### 3.1.8 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
-
-53. Use Multisim para encontrar los circuitos equivalentes de Thévenin y Norton externos al resistor de carga en el circuito de la figura 9-81.
-
-55. Use el editor de esquema del PSpice para introducir el circuito de la figura 9-83 y utilice el postprocesador Probe para desplegar el voltaje, la corriente y la potencia de salida como una función de la resistencia de carga. Use el cursor en el postprocesador Probe para determinar el valor de la resistencia de carga para la cual la carga recibirá la máxima potencia. Establezca que la resistencia de carga varíe desde 100 ohms hasta 4 000 ohms en incrementos de 100 ohms 
-
 ## 3.2 CAPACITORES Y CAPACITANCIA 
 ### 3.2.1 CAPACITANCIA 
-1. Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el
-voltaje en él, según se aplique a cada uno de los siguientes incisos:
-
-![image](https://user-images.githubusercontent.com/84458025/126565475-bbde3d1f-23f0-4ab1-980a-ab433cfca394.png)
-
-a. E=40 V,C=20uF             d.Q=3x10^-4C, C=10x10^-6F
-
-b. V=500 V,Q=1 000uC         e.Q=6 mC, C=40uF
-
-c. V=200 V,C=500 nF          f.V=1 200 V,Q=1.8 mC
-
-![image](https://user-images.githubusercontent.com/84458025/126566165-ff396e42-9115-49c9-828e-d5e75b3780f4.png)
-
-3. La carga en un capacitor de 50 uF es de 10 ×10^3 C. ¿Cuál es la diferencia de potencial entre sus terminales?
-
-![image](https://user-images.githubusercontent.com/84458025/126566374-7b5f3ab0-1cf8-4552-8231-36a1889e3609.png)
-
-5. Se carga un capacitor 5uF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?
-
-![image](https://user-images.githubusercontent.com/84458025/126566529-6dd978d6-ef09-48a3-a50c-c6144cdb44cc.png)
-
 ### 3.2.2 FACTORES QUE AFECTAN LA CAPACITANCIA 
-
-7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones 1 cm x 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
-
-![image](https://user-images.githubusercontent.com/84458025/126570409-1b4420b6-0f51-4c4a-8716-e8964023a117.png)
-
-
 ### 3.2.3 CAMPOS ELÉCTRICOS 
 ### 3.2.4 DIELÉCTRICOS 
 ### 3.2.5 EFECTOS NO IDEALES 
