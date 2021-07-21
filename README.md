@@ -93,13 +93,87 @@ cuando RL _ 50 k_.
 
 
 ### 3.1.4 TEOREMA DE TRANSFERENCIA DE MÁXIMA POTENCIA
+
+39. a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL=RTh.
+b. Calcule la máxima potencia disipada por RL.
+
+![image](https://user-images.githubusercontent.com/84458025/126559776-49d87ded-9798-4b3e-b692-c34762fa55f3.png)
+
+41. a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 komhs reciba la máxima potencia.
+b. Calcule la máxima potencia suministrada por RL.
+
+![image](https://user-images.githubusercontent.com/84458025/126559970-d0062f82-4ff8-4f6b-90d7-e0119729232a.png)
+
+
 ### 3.1.5 TEOREMA DE SUSTITUCIÓN 
+
+43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 omhs, determine la magnitud y polaridad
+de la fuente de voltaje resultante.
+
+![image](https://user-images.githubusercontent.com/84458025/126560275-0d333895-3749-49eb-a9d1-74c2cfbc1694.png)
+
 ### 3.1.6 TEOREMA DE MILLMAN 
+
+45. Use el Teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
+
+![image](https://user-images.githubusercontent.com/84458025/126560390-23cac05d-df1b-4323-9a68-ba3aa21f6ebb.png)
+
+![image](https://user-images.githubusercontent.com/84458025/126563139-433856f8-5a3c-4011-9d28-87fc4a13e70b.png)
+
+47. Repita el problema 45 para el circuito de la figura 9-105.
+
+![image](https://user-images.githubusercontent.com/84458025/126563390-b74c9c3b-73ff-4ec4-9664-c446681f3025.png)
+
+![image](https://user-images.githubusercontent.com/84458025/126564293-3bb247de-56e8-41cd-ae85-52c626cbc450.png)
+
 ### 3.1.7 TEOREMA DE RECIPROCIDAD 
+
+49. a. Determine la corriente I en el circuito de la figura 9-107.
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/84458025/126564396-e2c6eb94-b93a-40e5-b9e0-b6f1cd96dad6.png)
+
+51. a. Determine el voltaje V en el circuito de la figura 9-109.
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/84458025/126564646-6540ee6f-0172-402f-8981-71f7f3e9b322.png)
+
 ### 3.1.8 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
+
+53. Use Multisim para encontrar los circuitos equivalentes de Thévenin y Norton externos al resistor de carga en el circuito de la figura 9-81.
+
+55. Use el editor de esquema del PSpice para introducir el circuito de la figura 9-83 y utilice el postprocesador Probe para desplegar el voltaje, la corriente y la potencia de salida como una función de la resistencia de carga. Use el cursor en el postprocesador Probe para determinar el valor de la resistencia de carga para la cual la carga recibirá la máxima potencia. Establezca que la resistencia de carga varíe desde 100 ohms hasta 4 000 ohms en incrementos de 100 ohms 
+
 ## 3.2 CAPACITORES Y CAPACITANCIA 
 ### 3.2.1 CAPACITANCIA 
+1. Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el
+voltaje en él, según se aplique a cada uno de los siguientes incisos:
+
+![image](https://user-images.githubusercontent.com/84458025/126565475-bbde3d1f-23f0-4ab1-980a-ab433cfca394.png)
+
+a. E=40 V,C=20uF             d.Q=3x10^-4C, C=10x10^-6F
+
+b. V=500 V,Q=1 000uC         e.Q=6 mC, C=40uF
+
+c. V=200 V,C=500 nF          f.V=1 200 V,Q=1.8 mC
+
+![image](https://user-images.githubusercontent.com/84458025/126566165-ff396e42-9115-49c9-828e-d5e75b3780f4.png)
+
+3. La carga en un capacitor de 50 uF es de 10 ×10^3 C. ¿Cuál es la diferencia de potencial entre sus terminales?
+
+![image](https://user-images.githubusercontent.com/84458025/126566374-7b5f3ab0-1cf8-4552-8231-36a1889e3609.png)
+
+5. Se carga un capacitor 5uF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?
+
+![image](https://user-images.githubusercontent.com/84458025/126566529-6dd978d6-ef09-48a3-a50c-c6144cdb44cc.png)
+
 ### 3.2.2 FACTORES QUE AFECTAN LA CAPACITANCIA 
+
+7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones 1 cm x 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
+
+![image](https://user-images.githubusercontent.com/84458025/126570409-1b4420b6-0f51-4c4a-8716-e8964023a117.png)
+
+
 ### 3.2.3 CAMPOS ELÉCTRICOS 
 ### 3.2.4 DIELÉCTRICOS 
 ### 3.2.5 EFECTOS NO IDEALES 
