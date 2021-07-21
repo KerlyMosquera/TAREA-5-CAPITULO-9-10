@@ -167,9 +167,19 @@ figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
 
 ![image](https://user-images.githubusercontent.com/84431598/126058287-ba72e194-b3a6-4319-a385-e51a36ecaa5d.png)
 
+![image](https://user-images.githubusercontent.com/84431598/126573811-4ea70b45-df63-4977-893c-45b723edd8d2.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126573866-8bc2d8d7-46d4-4934-b4cc-0fcca113942c.png)
+
 27. Repita el problema 25 para el circuito de la figura 9-83.
 
 ![image](https://user-images.githubusercontent.com/84431598/126058294-1d9b0a53-97ed-4d12-9dde-f628f04becb8.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126573948-fbbbda0a-2bd4-40a7-a03f-ab4c8b21604a.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126574024-3358d462-cd7b-44b9-9cca-fe5e44e5cbae.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126574085-b0478469-3055-44ad-974e-b91022075581.png)
 
 29. Vea el circuito de la figura 9-85:
 a. Encuentre el circuito equivalente de Norton externo a RL.
