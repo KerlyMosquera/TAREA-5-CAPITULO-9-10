@@ -189,8 +189,51 @@ cuando RL _ 50 k_.
 ### 3.2.2 FACTORES QUE AFECTAN LA CAPACITANCIA 
 ### 3.2.3 CAMPOS ELÉCTRICOS 
 ### 3.2.4 DIELÉCTRICOS 
+
+19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incremente, ¿qué espaciamiento sufre ruptura en cada caso?
+
+![image](https://user-images.githubusercontent.com/84425276/126571235-7c8d6fb4-f2c2-476d-84d2-ac9d9d12c40c.png)
+
 ### 3.2.5 EFECTOS NO IDEALES 
+
+21. Un capacitor de 25 µF tiene un coeficiente de temperatura negativo de 175 ppm/oC. ¿Por cuánto y en que dirección podrá variar si la temperatura aumenta a 50oC? ¿Cuál será el nuevo valor? 
+
+![image](https://user-images.githubusercontent.com/84425276/126571263-933b83ee-ea76-463d-8f69-d5569c81042d.png)
+
 ### 3.2.6 TIPOS DE CAPACITORES 
+
+23. ¿Cuál es la capacitancia equivalente de 10, 12, 22, 33 µF conectados en paralelo? 
+
+![image](https://user-images.githubusercontent.com/84425276/126571284-b8ccc5ea-9817-4ce6-ad49-ec5ad8f7a237.png)
+
+25. Repita el problema 23 si los capacitores están conectados en serie. 
+
+![image](https://user-images.githubusercontent.com/84425276/126571306-adfed2b3-bf3b-4226-8009-0d1ae4ad9d49.png)
+
+27. Determine CT para cada uno de los circuitos de la figura 10-33.
+
+![image](https://user-images.githubusercontent.com/84425276/126571357-23504b87-e231-4f84-88ce-66b1c0fa53d7.png)
+
+![image](https://user-images.githubusercontent.com/84425276/126571435-04a56d13-b456-499e-9a91-288e8d656f0c.png)
+
+![image](https://user-images.githubusercontent.com/84425276/126571461-9e381675-eb8f-4c4f-807a-4a7b23e7431b.png)
+
+![image](https://user-images.githubusercontent.com/84425276/126571480-a438402a-b4ef-4e9d-b0d4-8e13d54c6fdc.png)
+
+29. Un capacitor de 30 µF se conecta en paralelo con un capacitor de 60 µF, y otro de 10 µF se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
+
+![image](https://user-images.githubusercontent.com/84425276/126571525-e291374a-942c-431f-bfc6-9abd5c4aa7cc.png)
+
+31. Para la figura 10-36, determinar, determinar C3 y C4.
+
+![image](https://user-images.githubusercontent.com/84425276/126571570-6d196598-7680-4ad1-a882-6d4be2829020.png)
+
+![image](https://user-images.githubusercontent.com/84425276/126571600-56291640-77d4-4028-af64-368363cee890.png)
+
+33. Se tienen capacitores de 22, 47, 2.2 y 10 µF. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
+
+![image](https://user-images.githubusercontent.com/84425276/126571617-31ab503e-98a9-45ba-a6f8-addaad9b019a.png)
+
 ### 3.2.7 CAPACITORES EN PARALELO Y EN SERIE 
 
 35. Considere capacitores de 1, 1.5 y 10 uF. Si CT =10-6 u F, ¿cómo están conectados
