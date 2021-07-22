@@ -43,8 +43,15 @@
 
 ### 2.1.7 TEOREMA DE RECIPROCIDAD 
 ### 2.1.8  ANÁLISIS DE CIRCUITOS POR COMPUTADORA
+
+![image](https://user-images.githubusercontent.com/84458025/126672071-7781f714-b885-4c06-8fff-794a233199c5.png)
+
 ## 2.2 CAPACITORES Y CAPACITANCIA 
 ### 2.2.1  CAPACITANCIA 
+
+![image](https://user-images.githubusercontent.com/84458025/126672197-8efd2757-2a26-44c6-a576-3ee709a2fa38.png)
+
+
 ### 2.2.2 FACTORES QUE AFECTAN LA CAPACITANCIA 
 ###  2.2.3 CAMPOS ELÉCTRICOS 
 ###  2.2.4 DIELÉCTRICOS
@@ -548,6 +555,9 @@ equivalente compuesta por una fuente de voltaje equivalente en serie con una res
 - Se transfiere potencia máxima a una carga desde una fuente cuando la resistencia de la carga es igual a
 la resistencia interna de la fuente.
 ## 5. VIDEO
+
+https://youtu.be/PU30hk8-Bbg
+
 ## 6. BIBLIOGRAFÍA
 -  Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
 - Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cengage Learning.
