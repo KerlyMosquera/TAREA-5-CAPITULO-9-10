@@ -165,6 +165,12 @@ que se indican, como se muestra en la figura 9-95.
 
 ![image](https://user-images.githubusercontent.com/84431598/126585040-83d82618-3b33-41c5-8ffb-90368556ea23.png)
 
+![image](https://user-images.githubusercontent.com/84431598/126596167-c857fd03-0ded-4497-843d-efc2df3070e9.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126596254-deb86815-198a-4905-bf80-6513fd899c8d.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126596311-8ca7510c-d421-41b5-8d3d-890603938d2e.png)
+
 23. Repita el problema 22 para el circuito de la figura 9-97.
 
 ![image](https://user-images.githubusercontent.com/84431598/126585063-23085340-e080-4848-9704-76caaa70ca35.png)
