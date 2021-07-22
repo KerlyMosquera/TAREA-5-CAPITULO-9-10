@@ -449,6 +449,7 @@ Determinamos el voltaje en cada capacitor:
 
 ![image](https://user-images.githubusercontent.com/84431598/126085393-764563d8-469d-46cc-8c26-e4740fb6aa47.png)
 
+![image](https://user-images.githubusercontent.com/84431598/126589629-cbf35eb1-909d-42b2-aea4-3b6e155af201.png)
 
 ### 3.2.8 CORRIENTE Y VOLTAJE EN EL CAPACITOR 
 
