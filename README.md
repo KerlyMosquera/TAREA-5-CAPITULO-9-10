@@ -61,6 +61,9 @@
 ![Capacitores en paralelo y en serie](https://user-images.githubusercontent.com/84425276/126254149-db372e10-7f43-4922-ba6f-20b806a6d362.png)
 
 ### 2.2.8 CORRIENTE Y VOLTAJE EN EL CAPACITOR 
+
+![image](https://user-images.githubusercontent.com/84431598/126666402-54dbe88f-ccb4-4976-a822-a9c3550d2a06.png)
+
 ### 2.2.9 ENERGÍA ALMACENADA POR UN CAPACITOR 
 
 ![image](https://user-images.githubusercontent.com/84431598/126057945-5f7082e5-20f9-4e45-b805-6650d240e837.png)
