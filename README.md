@@ -42,6 +42,9 @@
 ![image](https://user-images.githubusercontent.com/84431598/126057913-8a363302-36c9-41ff-a3fb-b0d428ae3748.png)
 
 ### 2.1.7 TEOREMA DE RECIPROCIDAD 
+
+![image](https://user-images.githubusercontent.com/84458025/126673515-71b70c63-82de-45cb-bd1f-d3c3c917aa37.png)
+
 ### 2.1.8  ANÁLISIS DE CIRCUITOS POR COMPUTADORA
 
 ![image](https://user-images.githubusercontent.com/84458025/126672071-7781f714-b885-4c06-8fff-794a233199c5.png)
