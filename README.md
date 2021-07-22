@@ -457,6 +457,9 @@ iC a escala con valores numéricos
 
 ![image](https://user-images.githubusercontent.com/84431598/126058195-8f60f13e-3b28-4437-9c53-f7d3dfb50565.png)
 
+![image](https://user-images.githubusercontent.com/84431598/126588998-5de3ce7e-ecee-4420-a7b1-d10a2ff4be3f.png)
+
+
 45. Si el voltaje en un capacitor de 4.7 uF es V_c=100e^(-0.05t) V V, ¿ qué valor tiene
 iC?
 
