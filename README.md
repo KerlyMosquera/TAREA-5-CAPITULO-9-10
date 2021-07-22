@@ -160,6 +160,29 @@ b. Use el circuito equivalente de Thevenin para encontrar la corriente I cuando 
 
 ![image](https://user-images.githubusercontent.com/84425276/126570791-3f676dcf-c64b-4886-bbcc-76e152301c4a.png)
 
+21. Encuentre el circuito equivalente de Thevenin de la red externa a las ramas
+que se indican, como se muestra en la figura 9-95.
+
+![image](https://user-images.githubusercontent.com/84431598/126585040-83d82618-3b33-41c5-8ffb-90368556ea23.png)
+
+23. Repita el problema 22 para el circuito de la figura 9-97.
+
+![image](https://user-images.githubusercontent.com/84431598/126585063-23085340-e080-4848-9704-76caaa70ca35.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126585224-49b29811-b129-435b-aed2-f328dacf2313.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126585370-b6cbb29f-8214-49c0-8484-a58572cc1236.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126585460-1da3f9c6-e781-4758-9bbe-7ef0bc975bca.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126585514-770bb953-2149-4ec3-9bee-767c75ef177d.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126585574-6ea87020-5c6a-4009-9987-65401ea1a217.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126585629-735cc8eb-59c1-4baf-96eb-86a5eb60da55.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126585676-88e5ada1-53b3-4cb4-a1a5-828c2d020c3b.png)
+
 ### 3.1.3 TEOREMA DE NORTON
 
 25. Encuentre el circuito equivalente de Norton externo a RL en el circuito de la
@@ -188,7 +211,54 @@ cuando RL _ 50 k_.
 
 ![image](https://user-images.githubusercontent.com/84431598/126058302-78370e55-01a2-40b7-9053-1fa45d19d1bd.png)
 
+![image](https://user-images.githubusercontent.com/84431598/126585755-04212f49-1199-4d5b-a65c-7020cf73b8af.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126585847-c3d70f0f-7eed-4389-accd-e36f991bf1b1.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126585903-b47d4766-2cdd-4f36-8cfb-b87e4afed3d0.png)
+
+31. 
+a. Encuentre el circuito equivalente de Norton externo a las terminales que se
+indican en la figura 9-87.
+b. Convierta el circuito equivalente de Thevenin del problema 13 en su equivalente
+de Norton.
+
+![image](https://user-images.githubusercontent.com/84431598/126585996-ab8d8fb9-f022-4971-bc73-bb1361933b16.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/84431598/126586100-8a338493-bb81-41c8-8063-428ac1797a0a.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/84431598/126586167-d735be4f-30b6-45f8-8ab9-e71bf262be2f.png)
+
+33. Repita el problema 31 para el circuito de la figura 9-91.
+
+![image](https://user-images.githubusercontent.com/84431598/126586196-94109b9f-0170-4279-8a72-eb7ec66db447.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126586253-0d168f63-aa92-4409-a605-b6a5934ff2da.png)
+
+Aplicando la ley de Ohm
+
+![image](https://user-images.githubusercontent.com/84431598/126586369-df36d8ac-874a-4d88-8cdc-5c504e37a932.png)
+
+35. Repita el problema 31 para el circuito de la figura 9-95.
+
+![image](https://user-images.githubusercontent.com/84431598/126586390-3afdc332-7153-40f0-b21d-9921053156aa.png)
+
+
 ### 3.1.4 TEOREMA DE TRANSFERENCIA DE MÁXIMA POTENCIA
+
+37. a. Para el circuito de la figura 9-91 determine el valor de RL para que se suministre
+la máxima potencia a la carga.
+b. Calcule el valor de la máxima potencia que puede ser suministrada a la
+carga.
+c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0 _ a
+50 k_ en incrementos de 5 k_.
+
+![image](https://user-images.githubusercontent.com/84431598/126586411-66e10270-fd31-4faa-a5d1-8bc2bf48a153.png)
+
 
 39. a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL=RTh.
 b. Calcule la máxima potencia disipada por RL.
