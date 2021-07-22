@@ -351,12 +351,26 @@ c. V=200 V, C=500 nF      f. V=1 200 V, Q=1.8 mC
 11. Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 uF. Un segundo capacitor con dimensiones físicas idénticas pero con un dieléctrico
 de mylar lleva una carga de 55 x 10^-4 C. ¿Cuál es su voltaje?
 
+![11 (2)](https://user-images.githubusercontent.com/84458025/126591350-dce0fa06-6f81-45e0-b140-cb936da6f8d6.png)
 
+### 3.2.2 FACTORES QUE AFECTAN LA CAPACITANCIA
 
+13. a. ¿Cuál es la intensidad del campo eléctrico e a una distancia de 1 cm de una carga de 100 mC en aceite?
+b. ¿Cuál es e al doble de la distancia?
 
+![13 (2)](https://user-images.githubusercontent.com/84458025/126591440-3678756f-d4b1-4251-a3e8-b7a63806716f.png)
 
-### 3.2.2 FACTORES QUE AFECTAN LA CAPACITANCIA 
 ### 3.2.3 CAMPOS ELÉCTRICOS 
+
+15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
+
+![15 (2)](https://user-images.githubusercontent.com/84458025/126591539-1c7fb935-24e5-49a9-87ca-55abaa1e7a66.png)
+
+17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
+
+![17 (2)](https://user-images.githubusercontent.com/84458025/126591602-5890544d-4124-4036-8034-e05d52be0753.png)
+
+
 ### 3.2.4 DIELÉCTRICOS 
 
 19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incremente, ¿qué espaciamiento sufre ruptura en cada caso?
