@@ -259,6 +259,10 @@ c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0 _ a
 
 ![image](https://user-images.githubusercontent.com/84431598/126586411-66e10270-fd31-4faa-a5d1-8bc2bf48a153.png)
 
+![image](https://user-images.githubusercontent.com/84431598/126593792-1b3cd4a3-d5ef-414c-946c-2d2afae1f1cb.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126593853-a17d8990-7310-4fe6-aef4-1948b511a317.png)
+
 
 39. a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL=RTh.
 b. Calcule la máxima potencia disipada por RL.
