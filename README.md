@@ -265,6 +265,9 @@ b. Calcule la máxima potencia disipada por RL.
 
 ![image](https://user-images.githubusercontent.com/84458025/126582837-f0b3daa1-c772-48ee-813f-dcf45a085d6c.png)
 
+![39](https://user-images.githubusercontent.com/84458025/126586717-663fa9f0-1175-48e2-9932-ea5f45a1f7c1.png)
+
+
 41. a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 kohms reciba la máxima potencia.
 b. Calcule la máxima potencia suministrada por RL
 
