@@ -317,7 +317,11 @@ b. Demuestre que la reciprocidad se aplica en el circuito dado.
 
 53. Use Multisim para encontrar los circuitos equivalentes de Thévenin y Norton externos al resistor de carga en el circuito de la figura 9-81.
 
+![53 (2)](https://user-images.githubusercontent.com/84458025/126592934-934f1092-9fda-4716-9c2c-82ae50ed69c3.png)
+
 55. Use el editor de esquema del PSpice para introducir el circuito de la figura 9-83 y utilice el postprocesador Probe para desplegar el voltaje, la corriente y la potencia de salida como una función de la resistencia de carga. Use el cursor en el postprocesador Probe para determinar el valor de la resistencia de carga para la cual la carga recibirá la máxima potencia. Establezca que la resistencia de carga varíe desde 100ohms hasta 4 000ohms en incrementos de 100ohms.
+
+![55 (2)](https://user-images.githubusercontent.com/84458025/126592974-ae571c9d-266e-460b-a8a5-7bcf4bb8ef3d.png)
 
 ## 3.2 CAPACITORES Y CAPACITANCIA 
 ### 3.2.1 CAPACITANCIA
