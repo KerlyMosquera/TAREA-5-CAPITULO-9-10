@@ -423,6 +423,9 @@ c)
 
 d)
 
+![image](https://user-images.githubusercontent.com/84431598/126587542-f8de14b7-87fa-4d7d-acfb-d4bcdfbb3ee8.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126587618-462a8085-8fda-4ab2-be9e-c957c414e068.png)
 
 39. Repita el problema 38 para el circuito de la figura 10-39.
 
