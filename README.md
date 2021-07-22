@@ -265,13 +265,15 @@ b. Calcule la máxima potencia disipada por RL.
 
 ![image](https://user-images.githubusercontent.com/84458025/126582837-f0b3daa1-c772-48ee-813f-dcf45a085d6c.png)
 
-![39](https://user-images.githubusercontent.com/84458025/126586717-663fa9f0-1175-48e2-9932-ea5f45a1f7c1.png)
-
+![39 (2)](https://user-images.githubusercontent.com/84458025/126586895-2018f3f6-48b9-439a-9afa-6a254073a96d.png)
 
 41. a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 kohms reciba la máxima potencia.
 b. Calcule la máxima potencia suministrada por RL
 
 ![image](https://user-images.githubusercontent.com/84458025/126583014-2b5cf35b-3486-4d67-8c2a-df412a35e0d8.png)
+
+![41 (2)](https://user-images.githubusercontent.com/84458025/126586971-2fa82902-d7a5-483d-8201-a5e06aa1e789.png)
+
 
 ### 3.1.5 TEOREMA DE SUSTITUCIÓN 
 
@@ -279,6 +281,9 @@ b. Calcule la máxima potencia suministrada por RL
 de la fuente de voltaje resultante.
 
 ![image](https://user-images.githubusercontent.com/84458025/126583088-8fd486fe-3bc2-4df7-a16d-e71fcea3904a.png)
+
+![43 (2)](https://user-images.githubusercontent.com/84458025/126587340-353484c1-8d10-497b-a136-af1739772fef.png)
+
 
 ### 3.1.6 TEOREMA DE MILLMAN 
 
