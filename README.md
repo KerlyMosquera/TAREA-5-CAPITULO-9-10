@@ -56,8 +56,20 @@
 
 
 ### 2.2.2 FACTORES QUE AFECTAN LA CAPACITANCIA 
+
+![image](https://user-images.githubusercontent.com/84458025/126674117-b4028cec-7576-4d49-9154-a121ac5a188e.png)
+
+
 ###  2.2.3 CAMPOS ELÉCTRICOS 
-###  2.2.4 DIELÉCTRICOS
+
+![image](https://user-images.githubusercontent.com/84458025/126675454-ff4c720f-4829-42b6-a8d4-aef2c4ca8c65.png)
+
+
+###  2.2.4 DIELECTRICOS
+
+![image](https://user-images.githubusercontent.com/84458025/126676152-f825c77b-a898-4d29-8e19-464eb637b2f3.png)
+
+
 ### 2.2.5 EFECTOS NO IDEALES 
 
 ![Efectos no ideales](https://user-images.githubusercontent.com/84425276/126254167-7912be98-3b71-4662-b693-c3bb358afa27.png)
