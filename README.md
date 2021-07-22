@@ -247,6 +247,12 @@ Aplicando la ley de Ohm
 
 ![image](https://user-images.githubusercontent.com/84431598/126586390-3afdc332-7153-40f0-b21d-9921053156aa.png)
 
+![image](https://user-images.githubusercontent.com/84431598/126595086-a0f97cea-baf4-4cba-892d-84b985ca9f71.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126595189-41b8b89d-c1c5-4efb-86c7-9da2e92fbd10.png)
+
+![image](https://user-images.githubusercontent.com/84431598/126595284-447cdf04-b657-429d-8c1b-530ac8641c6a.png)
+
 
 ### 3.1.4 TEOREMA DE TRANSFERENCIA DE MÁXIMA POTENCIA
 
